@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Nadeesha Prasad  
 
 🚀 Passionate about Web Development | MERN Stack | Data Engineering 
-
 ---
 
 ## 📊 GitHub Stats  
