@@ -23,7 +23,6 @@
 - 💻 **Languages**: C, JavaScript, Java, Python, SQL  
 - 🌐 **Web**: React, Node.js, Express.js,React.js, HTML5, CSS, Bootstrap, Tailwind  
 - 📦 **Databases**: MongoDB, MySQL, Firebase  
-- ⚡ **IoT/Embedded**: ESP32, Arduino, MQTT, Node-RED  
 - ☁️ **Cloud/Tools**: Git, GitHub
 
 ---
