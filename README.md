@@ -2,7 +2,7 @@
 
 🚀 Passionate about Web Development | MERN Stack | Data Engineering 
 
----
+
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -10,14 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeeshaprasad&layout=compact&hide=hack&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
----
+
 
 ## 🔥 Streak Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeeshaprasad&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack  
 - 💻 **Languages**: C, JavaScript, Java, Python, SQL  
@@ -25,7 +25,7 @@
 - 📦 **Databases**: MongoDB, MySQL, Firebase  
 - ☁️ **Cloud/Tools**: Git, GitHub
 
----
+
 
 ## 🌐 Connect With Me  
 <p align="left">
